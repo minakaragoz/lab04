@@ -21,7 +21,7 @@ def run_console_chat(sign, **kwargs):
             break
 
 lab04_params = {
-        "template_file": "lab04_trader_chat.json", 
+        "template_file": "lab04/lab04_trader_chat.json", 
         "sign": "Mina",  
         "end_regex": r"trade complete", 
     }
